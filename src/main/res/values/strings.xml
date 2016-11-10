@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MY LIST</string>
+    <string name="NewNote">NEW NOTE</string>
+    <string name="ExistNote">EXISTING NOTE</string>
+    <string name="Reminders">MANAGE REMINDERS</string>
+    <string name="History">HISTORY</string>
+</resources>
